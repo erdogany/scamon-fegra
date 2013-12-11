@@ -1,0 +1,4 @@
+scamon-fegra
+============
+
+Feed crawler engine that analyzes various sources and displays by graphs.
